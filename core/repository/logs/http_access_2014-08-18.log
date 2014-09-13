@@ -1,0 +1,3 @@
+- 127.0.0.1 - - [18/Aug/2014:09:22:02 +0530] "POST /CommodityQuote HTTP/1.1" - - "-" "Axis2"
+- 127.0.0.1 - - [18/Aug/2014:15:53:02 +0530] "POST /CommodityQuote HTTP/1.1" - - "-" "Axis2"
+- 127.0.0.1 - - [18/Aug/2014:17:38:20 +0530] "POST /CommodityQuote HTTP/1.1" - - "-" "Axis2"
